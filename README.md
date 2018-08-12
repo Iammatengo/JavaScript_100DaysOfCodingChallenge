@@ -1,5 +1,12 @@
 # JavaScript_100DaysOfCodingChallenge
-JavaScript: 100 Days of Coding Challenge
+JavaScript: 100 Days of Coding Challenge. I've joined the #100DaysOfCode Challenge
+
+## Contents
+
+* [Rules](rules.md)
+* [Log - click here to see my progress](log.md)
+* [FAQ](FAQ.md)
+* [Resources](resources.md)
 
 |   Day| Challenge Name | Source  | Demo |
 |:-:|:-:|:-:|:-:|
